@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: e18944686ce7baa458e285539c515d1c
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable:
+  - first:
+      74: -2375445858796397047
+    second: HandBones|HandBones|HandBones|Claw_Prep
+  - first:
+      74: -3601103858879873505
+    second: HandBones|HandBones|HandBones|Claw_SqueezeHi
+  - first:
+      74: -1327090402624105146
+    second: HandBones|HandBones|HandBones|Claw_SqueezeLo
+  - first:
+      74: 649655906872994169
+    second: HandBones|HandBones|HandBones|Claw_SqueezeMid
+  - first:
+      74: -3662715562715799983
+    second: HandBones|HandBones|HandBones|Gun_FireHi
+  - first:
+      74: 7322094256578128972
+    second: HandBones|HandBones|HandBones|Gun_FireLo
+  - first:
+      74: -1430058728590499135
+    second: HandBones|HandBones|HandBones|Gun_FireMid
+  - first:
+      74: -8243120356466840449
+    second: HandBones|HandBones|HandBones|Gun_SqueezeHi
+  - first:
+      74: -1463082118260533627
+    second: HandBones|HandBones|HandBones|Gun_SqueezeLo
+  - first:
+      74: 5046769320458774031
+    second: HandBones|HandBones|HandBones|Gun_SqueezeMid
+  - first:
+      74: 459774344458463944
+    second: HandBones|HandBones|HandBones|Hilt_Prep
+  - first:
+      74: 3829855824967507131
+    second: HandBones|HandBones|HandBones|Hilt_SqueezeHi
+  - first:
+      74: 4544329341770809495
+    second: HandBones|HandBones|HandBones|Hilt_SqueezeLo
+  - first:
+      74: -285899708560383301
+    second: HandBones|HandBones|HandBones|Hilt_SqueezeMid
+  - first:
+      74: 3483350293866039954
+    second: HandBones|HandBones|HandBones|Misc_SqueezeMid
+  - first:
+      74: -7274999704086601031
+    second: HandBones|HandBones|HandBones|Pinch_Prep
+  - first:
+      74: -2139812906810367171
+    second: HandBones|HandBones|HandBones|Pinch_SqueezeHi
+  - first:
+      74: -6117868726207188510
+    second: HandBones|HandBones|HandBones|Pinch_SqueezeLo
+  - first:
+      74: -2673123225217817577
+    second: HandBones|HandBones|HandBones|Pinch_SqueezeMid
+  - first:
+      74: 2572208796637528382
+    second: HandBones|HandBones|HandBones|Sphere_Prep
+  - first:
+      74: -8163126035816916592
+    second: HandBones|HandBones|HandBones|Sphere_SqueezeHi
+  - first:
+      74: 6020836755619352380
+    second: HandBones|HandBones|HandBones|Sphere_SqueezeLo
+  - first:
+      74: 3861593561673145079
+    second: HandBones|HandBones|HandBones|Sphere_SqueezeMid
+  - first:
+      74: 6238081383934078542
+    second: HandBones|HandBones|HandBones|Wall_Press
+  - first:
+      74: 2841817824276622280
+    second: HandBones|HandBones|HandBones|z_Default
+  - first:
+      74: 810959888362417206
+    second: HandBones|HandBones|HandBones|z_DragDown
+  - first:
+      74: 724733308416310665
+    second: HandBones|HandBones|HandBones|z_DragLeft
+  - first:
+      74: 5463007497263539272
+    second: HandBones|HandBones|HandBones|z_DragRight
+  - first:
+      74: -6896381467194164250
+    second: HandBones|HandBones|HandBones|z_DragUp
+  - first:
+      74: -4046160401152089749
+    second: HandBones|HandBones|HandBones|z_Fist
+  - first:
+      74: 93214457112885445
+    second: HandBones|HandBones|HandBones|z_Point
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
